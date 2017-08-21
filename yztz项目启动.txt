@@ -1,50 +1,10 @@
-²â²ß±¦²âÊÔÕÊºÅ£ºfg8888 fg8888  test04 a123456 a123456 a123456
-Î¢²ßÂÔ²âÊÔÕÊºÅ£ºstone3 a123456  li001 a123456
-Î¢²ßÂÔ²âÊÔ»·¾³ÕÊºÅ£ºli001/a123456 cxq1/a123456  lxx1/a123456
-Î¢²ßÂÔ²âÊÔ»·¾³½Ó¿Ú£ºhttp://192.168.14.224:7100
-Î¢²ßÂÔ¿ª·¢»·¾³½Ó¿Ú£ºhttp://192.168.14.251:9700
-svn ÕÊºÅ£ºwuli abcd1234  
-ìøµÀµØÖ·£ºhttps://zentao.yztz.cn/zentaopms/www/index.php?m=user&f=login&referer=L3plbnRhb3Btcy93d3cvaW5kZXgucGhwP209YnVnJmY9YnJvd3NlJnByb2R1Y3RJRD0xNQ==
-ìøµÀÕÊºÅ£ºwul/a123456  
-ºóÌ¨¹ÜÀíÏµÍ³£ºhttps://admin.yztz.cn/home/index.htm
-¹ÜÀíÔ±ÕË»§£ºadmin a123456
 
-ÎÄµµsvnÂ·¾­£ºhttps://caozh@svnrepo.yztz.com:9091/svn/doc/product/publish/clbV1.2/UI
-Ç°¶ËÏîÄ¿Ä¿Â¼£ºhttps://svnrepo.yztz.com:9091/svn/source/frontpage
-
-
-Æô¶¯ÏîÄ¿£º
-cd + Ä¿Â¼
-cnpm install //´´½¨node_moudulesÎÄ¼ş
+å¯åŠ¨é¡¹ç›®ï¼š
+cd + ç›®å½•
+cnpm install //åˆ›å»ºnode_moudulesæ–‡ä»¶
 pm2 start server.js
-Èç¹ûÓĞÁ´½ÓÊı¾İ¿âµÄ²Ù×÷´´½¨mysqlÒÀÀµ£ºcnpm install mysql
-
-
-
-NET Framework 4ÊÇÖ§³ÖÉú³ÉºÍÔËĞĞÏÂÒ»´úÓ¦ÓÃ³ÌĞòºÍ XML Web Services µÄÄÚ²¿ Windows ×é¼ş£¬ºÜ¶à»ùÓÚ´Ë¼Ü¹¹µÄ³ÌĞòĞèÒªËüµÄÖ§³Ö²ÅÄÜ¹»ÔËĞĞ
 
 
 
 
-´ò°ü²âÊÔ£º
-index.html ¸Ä³Éindex.min.js+µ±Ê±Ê±¼ä
-index.js  ¸Ä³Étype = 'online'
-Ñ¹ËõÃüÁîĞĞ£ºgrunt
-´ò°üappÀïÃæ´úÂë£º
-1.É¾³ıhtmlÎÄ¼ş¼Ğ
-2.css±£Áômerge.min.css ÆäËüÈ«²¿É¾µô
-3¡¢js ±£Áôapp.min.js¡¢index.min.js¡¢yztz.min.js ÆäËüÈ«²¿É¾µô
-4¡¢Ñ¹ËõappÎÄ¼şÖØÃüÃû·¢²âÊÔ
 
-
-·´Ñ¡¿ì½İ¼ü£ºAlt°´×¡²»·Å ÏÈ°´E ÔÙ°´I
-ÖØÆônginx:nginx -s reload
-
-webstrom¿ì½İ¼ü
-1.É¾³ıÕûĞĞ  ctrl+Y
-2.ÖØÆôÒ»ĞĞ  shift+enter
-3ÖØÃüÃû  ctrl+shift+N
-
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-´ËÏîÄ¿Îª²ßÂÔ±¦ÏîÄ¿£ºhttps://clb.yztz.cn/app/index.html#/index
