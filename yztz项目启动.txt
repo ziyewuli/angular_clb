@@ -1,0 +1,50 @@
+测策宝测试帐号：fg8888 fg8888  test04 a123456 a123456 a123456
+微策略测试帐号：stone3 a123456  li001 a123456
+微策略测试环境帐号：li001/a123456 cxq1/a123456  lxx1/a123456
+微策略测试环境接口：http://192.168.14.224:7100
+微策略开发环境接口：http://192.168.14.251:9700
+svn 帐号：wuli abcd1234  
+禅道地址：https://zentao.yztz.cn/zentaopms/www/index.php?m=user&f=login&referer=L3plbnRhb3Btcy93d3cvaW5kZXgucGhwP209YnVnJmY9YnJvd3NlJnByb2R1Y3RJRD0xNQ==
+禅道帐号：wul/a123456  
+后台管理系统：https://admin.yztz.cn/home/index.htm
+管理员账户：admin a123456
+
+文档svn路经：https://caozh@svnrepo.yztz.com:9091/svn/doc/product/publish/clbV1.2/UI
+前端项目目录：https://svnrepo.yztz.com:9091/svn/source/frontpage
+
+
+启动项目：
+cd + 目录
+cnpm install //创建node_moudules文件
+pm2 start server.js
+如果有链接数据库的操作创建mysql依赖：cnpm install mysql
+
+
+
+NET Framework 4是支持生成和运行下一代应用程序和 XML Web Services 的内部 Windows 组件，很多基于此架构的程序需要它的支持才能够运行
+
+
+
+
+打包测试：
+index.html 改成index.min.js+当时时间
+index.js  改成type = 'online'
+压缩命令行：grunt
+打包app里面代码：
+1.删除html文件夹
+2.css保留merge.min.css 其它全部删掉
+3、js 保留app.min.js、index.min.js、yztz.min.js 其它全部删掉
+4、压缩app文件重命名发测试
+
+
+反选快捷键：Alt按住不放 先按E 再按I
+重启nginx:nginx -s reload
+
+webstrom快捷键
+1.删除整行  ctrl+Y
+2.重启一行  shift+enter
+3重命名  ctrl+shift+N
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+此项目为策略宝项目：https://clb.yztz.cn/app/index.html#/index
